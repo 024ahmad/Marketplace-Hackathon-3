@@ -45,7 +45,6 @@ export const clearCart = () => {
 
 
 
-// import { Product } from "../types/product";
 
 // const getCart = (): Product[] => {
 //     try {
